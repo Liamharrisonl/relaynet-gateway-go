@@ -26,3 +26,4 @@
 # fix 6201
 # refactor 9364
 # fix 8621
+# fix 2523
