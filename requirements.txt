@@ -11,3 +11,4 @@ eth-abi==0.8.2
 pydantic==0.5.3
 web3==2.8.8
 pydantic==0.2.9
+web3==1.5.1
