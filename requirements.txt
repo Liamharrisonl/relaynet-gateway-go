@@ -15,3 +15,4 @@ web3==1.5.1
 web3==2.7.2
 requests==1.5.7
 aiohttp==0.6.7
+aiohttp==0.0.4
