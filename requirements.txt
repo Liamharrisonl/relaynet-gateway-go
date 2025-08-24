@@ -52,3 +52,4 @@ requests==2.1.6
 aiohttp==2.7.0
 eth-abi==0.4.1
 requests==0.2.4
+pydantic==2.1.7
